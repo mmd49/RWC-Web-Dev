@@ -19,3 +19,8 @@ This will be our main reposiotry for all of our future projects
 <h3>VIDEOS</h3>
 <p>How the Internet Works in 4 Minutes - https://www.youtube.com/watch?v=Sfzo4xm5eX8</p>
 <p>GitHub - https://www.youtube.com/watch?v=iv8rSLsi1xo</p>
+
+<h4>Bassic of HTML cartoon (3 parts )</h4>
+<p>Basics of HTML part 1 - https://youtu.be/boah9hNHhi0</p>
+<p>Basics of HTML part 1 - https://youtu.be/DRdGWLZEuxw</p>
+<p>Basics of HTML part 1 - https://youtu.be/oSq5FlmYyCQ</p>
