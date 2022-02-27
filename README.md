@@ -21,6 +21,6 @@ This will be our main reposiotry for all of our future projects
 <p>GitHub - https://www.youtube.com/watch?v=iv8rSLsi1xo</p>
 
 <h5>Bassic of HTML cartoon (3 parts )</h5>
-<p>Basics of HTML part 1 - https://youtu.be/boah9hNHhi0</p>
-<p>Basics of HTML part 1 - https://youtu.be/DRdGWLZEuxw</p>
-<p>Basics of HTML part 1 - https://youtu.be/oSq5FlmYyCQ</p>
+<p>  * Basics of HTML part 1 - https://youtu.be/boah9hNHhi0</p>
+<p>  * Basics of HTML part 1 - https://youtu.be/DRdGWLZEuxw</p>
+<p>  * Basics of HTML part 1 - https://youtu.be/oSq5FlmYyCQ</p>
